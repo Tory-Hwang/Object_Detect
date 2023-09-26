@@ -1,0 +1,101 @@
+# YOLOv5  by Ultralytics, GPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017) by Ultralytics
+# Example usage: python train.py --data coco128.yaml
+# parent
+#  yolov5
+#  datasets
+#  coco128  downloads here (7 MB)
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../datasets/coco128  # dataset root dir
+train: images/train2017  # train images (relative to 'path') 128 images
+val: images/train2017  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: 사람
+  1: 자전거
+  2: 자동차
+  3: 오토바이
+  4: 비행기
+  5: 버스
+  6: 기차
+  7: 트럭
+  8: 보트
+  9: 신호등
+  10: 소화전
+  11: 정지신호
+  12: 주차미터
+  13: 벤치
+  14: 새
+  15: 고양이
+  16: 강아지
+  17: 말
+  18: 양
+  19: 소
+  20: 코끼리
+  21: 곰
+  22: 얼룩말
+  23: 기린
+  24: 배낭
+  25: 우산
+  26: 핸드백
+  27: 넥타이
+  28: 여행가방
+  29: 프리비즈
+  30: 스키
+  31: 스노우보드
+  32: 스포츠공
+  33: 연
+  34: 야구방망이
+  35: 야구글러브
+  36: 스케이드보드
+  37: 서핑보드
+  38: 테니스라켓
+  39: 병
+  40: 와인잔
+  41: 컵
+  42: 갈림길
+  43: 칼
+  44: 숟가락
+  45: 그릇
+  46: 바나나
+  47: 사과
+  48: 샌드위치
+  49: 오랜지
+  50: 브로코리
+  51: 당근
+  52: 핫도그
+  53: 피자
+  54: 도넛
+  55: 케익
+  56: 의자
+  57: 소파
+  58: 화분
+  59: 침대
+  60: 식탁
+  61: 화장실
+  62: 텔레비젼
+  63: 노트북
+  64: 마우스
+  65: 원격
+  66: 키보드
+  67: 핸드폰
+  68: 전자레인지
+  69: 오븐
+  70: 토스트
+  71: 싱크대
+  72: 냉장고
+  73: 책
+  74: 시계
+  75: 꽃병
+  76: 가위
+  77: 곰인형
+  78: 헤어드라이어
+  79: 치솔
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
