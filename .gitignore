@@ -1,0 +1,6 @@
+*.tar.gz
+*.weights
+*.h5
+*.pb
+*.zip
+*.exe

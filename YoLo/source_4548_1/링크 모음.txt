@@ -1,0 +1,329 @@
+[01장]
+21쪽
+•https://www.youtube.com/watch?v=8dksuAXc6P8
+•https://www.youtube.com/watch?v=K-FvYZv785U
+•https://www.youtube.com/watch?v=bpa1iiJmR3Q
+
+23쪽
+• https://cacm.acm.org/news/254412-duke-energy-used-computer-vision-robots-to-cutcosts-by-74-million/fulltext
+• https://www.youtube.com/watch?v=cUTMhmVh1qs
+
+24쪽
+• https://www.youtube.com/watch?v=tF4DML7FIWk
+
+31쪽
+• https://www.whichfaceisreal.com
+• https://storage.googleapis.com/tfjsmodels/demos/facemesh/index.html
+
+32쪽
+• https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning
+• https://teachablemachine.withgoogle.com
+
+34쪽
+• https://motchallenge.net/vis/MOT17-09-SDP
+• https://github.com/mostafa-saad/deep-activity-rec#dataset
+
+37쪽
+• https://szeliski.org/Book
+• https://d2l.ai
+• https://learnpython.org
+• https://kr.coursera.org/courses?query=python
+
+38쪽
+• https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=ko
+• https://www.ted.com/talks/joseph_redmon_how_computers_learn_to_recognize_objects_instantly
+• https://www.ted.com/talks/sebastian_thrun_google_s_driverless_car
+• https://www.ted.com/talks/aicha_evans_your_self_driving_robotaxi_is_almost_here#t-658160
+
+40쪽
+• https://huggingface.co/spaces/dalle-mini/dalle-mini
+
+
+[02장]
+43쪽
+• https://cafe.naver.com/opencv
+
+44쪽
+• https://opencv.org
+• https://docs.opencv.org/4.5.5/index.html
+
+45쪽
+• https://github.com/opencv/opencv
+• https://cafe.naver.com/opencv
+
+47쪽
+• https://www.anaconda.com
+
+50쪽
+• https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+
+53쪽
+• https://docs.python.org/3/library/functions.html
+
+60쪽
+• https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html
+
+67쪽
+• https://docs.opencv.org/4.x/d6/d6e/group__imgproc__draw.html#ga07d2f74cadcf8e305e810ce8eed13bc9
+
+
+[04장]
+118쪽
+• https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds
+
+153쪽
+• https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html
+
+158쪽
+• https://docs.opencv.org/4.x/dd/d1a/group__imgproc__feature.html#ga04723e007ed888ddf11d9ba04e2232de를
+
+
+[05장]
+161쪽
+• https://motchallenge.net/data/MOT17
+
+191쪽
+• https://github.com/flann-lib/flann
+• https://faiss.ai
+
+
+[06장]
+207쪽
+• https://wikidocs.net/book/2165
+• https://www.riverbankcomputing.com/static/Docs/PyQt5
+
+231쪽
+• stylization, pencilSketch:	https://docs.opencv.org/3.4/df/dac/group__photo__render.html
+			https://learnopencv.com/non-photorealistic-rendering-using-opencv-python-c
+• oilPainting:		https://docs.opencv.org/4.x/de/daa/group__xphoto.html
+
+
+[07장]
+250쪽
+• 공개된 데이터셋을 찾기 위한 위키피디아 검색어: list of datasets for machine learning research’를 참조
+
+254쪽
+• 텐서플로 데이터셋 목록: https://www.tensorflow.org/datasets
+• 케라스 데이터셋 목록: https://keras.io/api/datasets
+
+273쪽
+• ReLU의 개발 역사를 살펴보기 위한 위키피디아 검색어: rectifier(neural networks)
+
+289쪽
+• https://keras.io/api/layers/core_layers/dense
+
+290쪽
+• https://keras.io/api/optimizers/adam
+
+
+[08장]
+306쪽
+• https://www.image-net.org
+
+311쪽
+• https://cs231n.github.io/convolutional-networks
+
+327쪽
+• https://keras.io/api
+
+335쪽
+• http://neuralnetworksanddeeplearning.com/chap3.html
+
+338쪽
+• https://keras.io/api/optimizers
+
+344쪽
+• https://keras.io/api/applications
+
+348쪽
+• https://paperswithcode.com
+• https://paperswithcode.com/sota/fine-grainedimage-classification-on-stanford-1
+• http://vision.stanford.edu/aditya86/ImageNetDogs
+
+
+[09장]
+364쪽
+• https://paperswithcode.com/datasets?mod=images&page=1
+
+365쪽
+• https://www.tensorflow.org/datasets/catalog/overview
+• https://aihub.or.kr
+• http://host.robots.ox.ac.uk/pascal/VOC/voc2012/segexamples
+
+366쪽
+• https://www.lvisdataset.org/explore
+
+367쪽
+• https://www.inaturalist.org
+• 영상 도구를 찾기 위한 위키피디아 검색어: list of manual image annotation tools
+
+387쪽
+• yolov3.weights: https://pjreddie.com/darknet/yolo
+• yolov3.cfg: https://github.com/pjreddie/darknet/tree/master/cfg
+• coco_names.txt: https://github.com/pjreddie/darknet/blob/master/data/coco.names
+
+405쪽
+• https://www.robots.ox.ac.uk/~vgg/data/pets
+
+408쪽
+• https://keras.io/examples/vision/oxford_pets_image_segmentation
+
+410쪽
+• https://pixellib.readthedocs.io
+• https://pixellib.readthedocs.io/_/downloads/en/latest/pdf
+• https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.3/deeplabv3_xception65_ade20k.h5
+
+413쪽
+• https://github.com/ayoolaolafenwa/TIP PixelLib/releases/download/1.2/mask_rcnn_coco.h5
+
+416쪽
+• https://pixellib.readthedocs.io/en/latest/custom_train.html
+• https://keras.io/examples/vision
+
+420쪽
+• https://paperswithcode.com/task/facial-expression-recognition
+
+421쪽
+• Yale: http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/Yale%20Face%20Database.htm
+• LFW: http://vis-www.cs.umass.edu/lfw
+• MegaFace: http://megaface.cs.washington.edu
+• VGG: https://www.robots.ox.ac.uk/~vgg/data/vgg_face
+
+424쪽
+• MORPH II: http://www.faceaginggroup.com
+• IMDB-WIKI: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki
+• AFAD: https://afad-dataset.github.io
+• UTK: https://susanqq.github.io/UTKFace
+
+426쪽
+• https://liuziwei7.github.io/projects/FaceAttributes.html
+
+427쪽
+• https://aihub.or.kr
+• https://paperswithcode.com/sota/fine-grained-image-classification-oncub-200-1
+
+
+[10장]
+436쪽
+• https://docs.opencv.org/3.4/dc/d6b/group__video__track.html
+
+441쪽
+• https://paperswithcode.com/sota/optical-flow-estimation-on-sintel-clean
+
+443쪽
+• https://votchallenge.net
+• https://motchallenge.net
+• https://www.aicitychallenge.org
+
+448쪽
+• https://web.archive.org/web/20120105112913/http://www.math.harvard.edu/archive/20_spring_05/handouts/assignment_overheads.pdf
+
+449쪽
+• https://github.com/abewley/sort
+
+452쪽
+• https://mediapipe.dev
+
+471쪽
+• https://posetrack.net
+• FLIC: https://bensapp.github.io/flic-dataset.html
+• LSP: http://sam.johnson.io/research/lsp.html
+• MPII: http://human-pose.mpi-inf.mpg.de
+• COCO: https://cocodataset.org/#keypoints-2020
+• CrowdPose: https://github.com/Jeff-sjtu/CrowdPose
+• PoseTrack: https://posetrack.net
+
+473쪽
+• https://cocodataset.org/#keypoints-eval
+
+476쪽
+• Kinetics: https://deepmind.com/research/open-source/kinetics
+• HAA500: https://www.cse.ust.hk/haa
+
+479쪽
+• https://www.deepmind.com/opensource/kinetics
+
+480쪽
+• https://paperswithcode.com/sota/action-classification-on-kinetics-700
+
+
+[11장]
+512쪽
+• https://keras.io/examples/vision/image_classification_with_vision_transformer
+
+516쪽
+• https://www.tensorflow.org/api_docs/python/tf/keras/layers/MultiHeadAttention
+
+517쪽
+• https://www.tensorflow.org/api_docs/python/tf/keras/layers/Normalization
+
+531쪽
+• https://huggingface.co/docs/transformers/index
+
+537쪽
+• https://distill.pub
+
+546쪽
+• https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype
+
+
+[12장]
+549쪽
+• https://learnopencv.com/geometry-of-image-formation
+
+553쪽
+• https://learnopencv.com/cameracalibration-using-opencv
+
+554쪽
+• https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
+
+562쪽
+• https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation
+
+565쪽
+• https://rosindustrial.org/3d-camera-survey
+
+581쪽
+• https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation
+• https://azure.microsoft.com/en-us/products/kinect-dk/#overview
+• https://www.wired.com/story/darpa-grand-challenge-2004-oral-history
+
+582쪽
+• http://www.aitimes.com/news/articleView.html?idxno=136692
+
+
+[13장]
+584쪽
+• https://huggingface.co/spaces/dalle-mini/dalle-mini
+  -> 입력: A girl is running with two dogs along the river
+
+621쪽
+• https://thisxdoesnotexist.com
+
+627쪽
+• https://galileoandeinstein.phys.virginia.edu/more_stuff/Applets/Diffusion/diffusion.html
+
+631쪽
+• https://github.com/hojonathanho/diffusion
+
+635쪽
+• https://openai.com/blog/dall-e
+
+636쪽
+• DALL·E mini: https://huggingface.co/spaces/dalle-mini/dalle-mini
+• Stable Diffusion: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+640쪽
+• DALL·E: https://openai.com/blog/dall-e
+• DALL·E2: https://openai.com/dall-e-2
+
+642쪽
+• https://huggingface.co/docs/diffusers/api/pipelines/overview
+
+643쪽
+• https://openai.com/blog/dall-e-2-extending-creativity
+
+645쪽
+• https://huggingface.co/spaces/dalle-mini/dalle-mini
+
+
